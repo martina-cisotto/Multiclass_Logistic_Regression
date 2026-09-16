@@ -34,6 +34,6 @@ The repository includes `isolet5.data`, a benchmark speech recognition dataset c
 
 ## Requirements & Tech Stack
 
-* **Language:** Python 3.x
+* **Language:** Python
 * **Primary Libraries:** NumPy, Matplotlib, SciPy / scikit-learn (for evaluation/utilities)
 
