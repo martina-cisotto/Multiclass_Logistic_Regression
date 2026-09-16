@@ -15,13 +15,13 @@ A Python implementation of first-order optimization algorithms from scratch usin
 
 ## Repository Structure
 
-* `OPT_CISOTTO_GROSSELLE.py`  
+* `Multiclass_logistic_optimization.py`  
   Contains the core Python implementation of GD and BCGD algorithms from scratch, along with synthetic data generation, hyperparameter tuning routines, and performance metrics evaluation.
 
 * `isolet5.data`  
   The real-world ISOLET5 speech recognition dataset used for training, testing, and performance benchmarking.
 
-* `CISOTTO_GROSSELLE_REPORT.pdf`  
+* `Report.pdf`  
   Detailed project report containing mathematical derivations, experimental setups, performance plots, and analytical discussions.
 
 ---
